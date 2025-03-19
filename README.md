@@ -19,9 +19,9 @@ This project is part of the PwC Switzerland Digital Accelerator Job Simulation, 
 * DAX(Data Analysis Expressions) (for custom calculations and KPIs)
 * Excel (for data preparation and importing files)
 
-📈 **Key Insights & Findings**
-✔️ Identified bottlenecks in customer serivce and enabling improvements to enhance customer satisfaction.
-✔️ Analyzed customer churn risk factors to provide actionable insights for retention strategies.
-✔️ Found trends based on hiring, promotions and turnover rates.
-✔️ Provided a clear understanding of customer behaviour, service effeciency and workforce diversity.
+📈 **Key Insights & Findings**<br>
+✔️ Identified bottlenecks in customer serivce and enabling improvements to enhance customer satisfaction.<br>
+✔️ Analyzed customer churn risk factors to provide actionable insights for retention strategies.<br>
+✔️ Found trends based on hiring, promotions and turnover rates.<br>
+✔️ Provided a clear understanding of customer behaviour, service effeciency and workforce diversity.<br>
 ✔️ Generated insights based on customer demographics and job categories. 
