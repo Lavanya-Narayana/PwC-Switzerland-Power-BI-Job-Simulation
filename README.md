@@ -1,5 +1,5 @@
 # PwC-Switzerland-Power-BI-Job-Simulation
-📌 **Project Overview** 
+📌 **Project Overview** <br>
 This project is part of the PwC Switzerland Digital Accelerator Job Simulation, which focuses on digital transformation and upskilling in today's business landscape. The simulation involves creating Power BI dashboards to solve client issues and provide actionable insights.
 
 **Project Objectives**
